@@ -1,1 +1,1 @@
-# simeple-bank_app-clone
+# simple-bank_app-clone
