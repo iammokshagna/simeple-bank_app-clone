@@ -1,1 +1,1 @@
-# simeple-upstoxs-clone
+# simeple-bank_app-clone
